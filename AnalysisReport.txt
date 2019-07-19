@@ -1,0 +1,10 @@
+WeatherPy Analysis for 07/19/19
+
+
+1.The temperature of cities tends to increase near the equator (latitude of 0). However, a considerable cluster of cities around the tropic of cancer (latitude approx. 20) record the highest temperatures.
+
+2.Majority of the cities tend to have humidity level above 60% across the globe. There are hardly a few cities in the sample considered for analysis where the level of humidity is less than 15%. However, there is a lack of any clear relationship between the latitude and the level of humidity.
+
+3.The cloudiness of the cities tends to be clustered around 0% and between 80% and 100%. Again, lack of any clear relationship between the latitude and level of Cloudiness.
+
+4.Majority of the cities have wind speed less than 15 mph. There are few cities in the southern hemisphere with extreme wind speeds of more than 25 mph.
